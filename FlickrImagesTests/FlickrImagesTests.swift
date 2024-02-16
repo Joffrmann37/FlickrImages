@@ -33,4 +33,7 @@ final class FlickrImagesTests: XCTestCase {
         }
     }
 
+    func test_FlickrAPISuccess() {
+        
+    }
 }
